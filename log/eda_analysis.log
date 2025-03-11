@@ -1,0 +1,18 @@
+2025-03-11 10:53:25,850 - INFO - ExploratoryDataAnalysis initialized with DataFrame of shape (95662, 16)
+2025-03-11 10:53:25,852 - INFO - Fetching the first five rows of the DataFrame.
+2025-03-11 10:53:59,306 - INFO - Displaying dataset overview.
+2025-03-11 10:54:00,079 - INFO - Displaying dataset overview.
+2025-03-11 10:54:04,384 - INFO - Calculating summary statistics.
+2025-03-11 10:54:05,265 - INFO - Calculating summary statistics.
+2025-03-11 10:54:08,927 - INFO - Plotting numerical distributions for columns: ['Amount', 'Value']
+2025-03-11 10:54:24,073 - INFO - Plotting categorical distributions for columns: ['ChannelId', 'ProductCategory', 'CountryCode', 'ProductId', 'PricingStrategy', 'FraudResult']
+2025-03-11 10:54:24,712 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 10:54:24,773 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 10:54:25,336 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 10:54:25,388 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 10:54:25,585 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 10:54:25,638 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-11 10:54:39,067 - INFO - Performing correlation analysis.
+2025-03-11 10:54:48,792 - INFO - Analyzing missing values.
+2025-03-11 10:54:48,877 - INFO - Missing values per column: {'TransactionId': 0, 'BatchId': 0, 'AccountId': 0, 'SubscriptionId': 0, 'CustomerId': 0, 'CurrencyCode': 0, 'CountryCode': 0, 'ProviderId': 0, 'ProductId': 0, 'ProductCategory': 0, 'ChannelId': 0, 'Amount': 0, 'Value': 0, 'TransactionStartTime': 0, 'PricingStrategy': 0, 'FraudResult': 0}
+2025-03-11 10:54:52,213 - INFO - Detecting outliers for columns: ['Amount', 'Value']

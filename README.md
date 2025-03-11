@@ -67,7 +67,7 @@ Key Features
 API integration using FastAPI.
 How to Run the Project
 1.Clone the Repository:
-git clone https://github.com/your-repo/Bank-Credit-Scoring-Model.git
+git clone https://github.com/mesfinshimels/Bank-Credit-Scoring-Model.git
 cd Bank-Credit-Scoring-Model
 1.Install Dependencies:
 pip install -r requirements.txt
